@@ -4,7 +4,7 @@
   <a href="https://github.com/euconstante">
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=euconstante&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euconstante&&layout=compact&hide=shell&theme=jolly"/> 
-    <img align="center" width="140" height="160" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+   
 </div>
  
     
@@ -17,6 +17,7 @@
   <img align="center" alt="Bianca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bianca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bianca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" width="140" height="160" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
  
 </div>
   
