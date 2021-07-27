@@ -4,7 +4,7 @@
   I'm a **Front-end** developer from Florianópolis, Brazil. I'm currently working on @JungleDevs team as a Software Engineer Intern, working mostly on challenges using, **Java Script, CSS, HTML and React**. I'm also learning about User Interface and User Experience **(UI/UX)** and tools like **Figma and AdobeXd.** I think that as a developer it is important to understanding beyond the code, because we are programming from people to people.
    
  ## Why programming ?    
-  I'm a materials engineer, currently I'm doing my master degree and to be honest I always had the felling of something missing. Thinking on future its hard to see myself as an engineer without knowing programming. In my perspective everything is about conection. People improve technologies, learn new languages and the world change in order to provide more and better conections, and for me through programming **_this is the way._** 
+  I'm a materials engineer, currently I'm doing my master degree and to be honest I always had the felling of something missing. Thinking on future its hard to see myself as an engineer without knowing programming. In my perspective everything is about connection. People improve technologies, learn new languages and the world change in order to provide more and better connections, and for me through programming **_this is the way._** 
   
   ## <img align="center"  width="100" height="80" src="https://media.tenor.com/images/8d61fe1b532f194dc6a892305b528a9e/tenor.gif">
  
