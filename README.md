@@ -15,8 +15,8 @@
 
 <div >
   <a href="https://github.com/euconstante">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=euconstante&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euconstante&&layout=compact&hide=shell&theme=jolly"/> 
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=euconstante&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euconstante&&layout=compact&hide=shell&theme=gruvbox"/> 
    
 </div>
  
