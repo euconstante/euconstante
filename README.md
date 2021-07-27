@@ -1,6 +1,6 @@
 
 
-## Hi! My name is Bianca.  <img align="center" width="100" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqBH6cNwRb9-1qvxjzvAt8BjG6t0pKMyFXMrcNl7ylYcyGGyinxdjJc2pcfHQKuAUDJs&usqp=CAU">
+## Hi! My name is Bianca,  <img align="center" width="100" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqBH6cNwRb9-1qvxjzvAt8BjG6t0pKMyFXMrcNl7ylYcyGGyinxdjJc2pcfHQKuAUDJs&usqp=CAU">
   I'm a **Front-end** developer from Florianópolis, Brazil. I'm currently working on @JungleDevs team as a Software Engineer Intern, working mostly on challenges using, **Java Script, CSS, HTML and React**. I'm also learning about Users Interface and User Experience **(UI/UX)** and tools like **Figma and AdobeXd.** I think that as a developer it is important to understanding beyond the code, because we are programming from people to people.
    
  ## Why programming ?    
