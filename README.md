@@ -1,7 +1,7 @@
 
 
 ## Hi! My name is Bianca,  <img align="center" width="100" height="80" src="https://c.tenor.com/TdXGUNE47FgAAAAj/mandalorian-baby-yoda.gif">
-  I'm a Front-end developer from Florianópolis, Brazil. I'm currently working on @JungleDevs team as a Software Engineer Intern, working mostly on challenges using, **JavaScript, CSS, HTML and React.** Also, I'm learning about User Interface and User Experience (UI/UX) and tools like **Figma and Adobe XD**. I think that as a developer, it is important to understand beyond the code, because we are programming from people to people.
+  I'm a **Front-end developer from Florianópolis, Brazil**. I'm currently working on @JungleDevs team as a Software Engineer Intern, working mostly on challenges using, **JavaScript, CSS, HTML and React.** Also, I'm learning about User Interface and User Experience (UI/UX) and tools like **Figma and Adobe XD**. I think that as a developer, it is important to understand beyond the code, because we are programming from people to people.
   
  ## Why programming ?    
   I'm a materials engineer, currently I'm doing my master degree and to be honest I always had the felling of something missing. Thinking on future its hard to see myself as an engineer without knowing programming. In my perspective everything is about connection. People improve technologies, learn new languages and the world change in order to provide more and better connections, and for me through programming **_this is the way._** 
